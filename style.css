@@ -1,0 +1,9 @@
+img {
+    height: 500px;
+    width: 350px;
+}
+div {
+    height: 500px;
+    width: 350px;
+    border: 1px solid black; 
+}
